@@ -1,0 +1,5 @@
+node_modules/
+
+*tmp
+help.html
+README.txt
