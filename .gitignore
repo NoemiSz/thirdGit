@@ -1,5 +1,6 @@
 node_modules
-
+Node_Modules/
+other_module/
 *tmp
 help.html
 README.txt
